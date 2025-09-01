@@ -465,9 +465,9 @@ chains:
     confirmations_final: 30
     staking:
       # KILN Batch deposit contract
-      stake_contract: "0x576834cB068e677db4aFF6ca245c7bde16C3867e"
+      stake_contract: "0xC38460A5D75FF74215311706699caD3a07A8eb42"
       # KILN exit contract
-      unstake_contract: "0x004c226fff73aa94b78a4df1a0e861797ba16819"
+      unstake_contract: "0xC38460A5D75FF74215311706699caD3a07A8eb42"
       providers: ["kiln", "twinstake"]
     external:
       dti: X9J9K872S
